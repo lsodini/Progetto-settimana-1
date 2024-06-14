@@ -45,9 +45,9 @@ h6 {
 
 .corso {
 	height: auto;
+	background-size:110% ;
 	background-image: url('../images/banner.jpg');
-	background-size: auto 100%;
-	background-position: center center;
+	
 }
 
 .corso button,
