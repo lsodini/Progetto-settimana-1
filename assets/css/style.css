@@ -67,12 +67,12 @@ h6 {
 
 .corso h1 {
 	padding-top: 9%;
-	max-width: 400px;
+	max-width: auto;
 	margin: 0 auto 1.3rem auto;
 }
 
 .corso p {
-	max-width: 350px;
+	max-width: 400px;
 	margin: 0 auto 2.7rem auto;
 }
 
